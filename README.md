@@ -14,8 +14,8 @@ pytz==2018.9
 
 
 ### deployment
-deployed at [pythonanywhere][http://yiqing5.pythonanywhere.com/about/]  
-followed the instructions from [here][https://help.pythonanywhere.com/pages/DeployExistingDjangoProject]  
+deployed at [pythonanywhere]:http://yiqing5.pythonanywhere.com/about/ 
+followed the instructions from [here]:https://help.pythonanywhere.com/pages/DeployExistingDjangoProject 
 
 ### description
 This is a easy-version university management system. 
