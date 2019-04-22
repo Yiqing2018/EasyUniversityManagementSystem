@@ -1,7 +1,7 @@
 # Easy University Course Information System
 
 ### demo video
-
+[youtube](https://youtu.be/yPkNbhXRk78)  
 
 ### Development Environment
 Language: python3.6  

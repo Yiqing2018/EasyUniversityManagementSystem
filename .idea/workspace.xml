@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0daa6a8-d8d5-4cf4-a18b-d2653a9b9ff9" name="Default Changelist" comment="finish part3 of Model tutorial">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/courseinfo/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/courseinfo/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/courseinfo/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/courseinfo/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +79,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/courseinfo/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3270">
+            <state relative-caret-position="3300">
               <caret line="418" selection-start-line="418" selection-end-line="418" />
               <folding>
                 <element signature="e#1762#2652#0" />
@@ -288,6 +285,7 @@
       <workItem from="1555895977986" duration="84000" />
       <workItem from="1555897824295" duration="1542000" />
       <workItem from="1555899534523" duration="42000" />
+      <workItem from="1555902832356" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="finish part3 of Model tutorial">
       <created>1549419876563</created>
@@ -300,12 +298,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75478000" />
+    <option name="totallyTimeSpent" value="75482000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27896994" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2825465" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -668,7 +667,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/courseinfo/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3270">
+        <state relative-caret-position="3300">
           <caret line="418" selection-start-line="418" selection-end-line="418" />
           <folding>
             <element signature="e#1762#2652#0" />
