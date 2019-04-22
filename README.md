@@ -14,13 +14,18 @@ pytz==2018.9
 
 
 ### deployment
-http://yiqing5.pythonanywhere.com/about/
-followed the instructions from https://help.pythonanywhere.com/pages/DeployExistingDjangoProject  
+deployed at [pythonanywhere][http://yiqing5.pythonanywhere.com/about/]  
+followed the instructions from [here][https://help.pythonanywhere.com/pages/DeployExistingDjangoProject]  
 
 ### description
 This is a easy-version university management system. 
-- functions
-Instructor management; course management; students management; registration managment  
+- functions  
+Instructor management  
+
+course management  
+students management  
+registration managment  
+
 - roles
 1) sysadmin  
 work as superuser, with full access to database, free to do all CRUD operation  
